@@ -1,0 +1,9 @@
+{"placeholder": "text_a"} it's {"mask"} .
+{"placeholder": "text_a"} she's {"mask"} .
+{"placeholder": "text_a"} and it's always {"mask"} .
+{"placeholder": "text_a"} it's so {"mask"} .
+{"placeholder": "text_a"} it is so {"mask"} .
+{"placeholder": "text_a"} it's kind of {"mask"} .
+{"placeholder": "text_a"} she is {"mask"} .
+{"placeholder": "text_a"} it's {"mask"} and it's not that bad.
+{"placeholder": "text_a"} it's {"mask"} and it's not even my fault.

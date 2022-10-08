@@ -1,0 +1,10 @@
+{"placeholder": "text_a"} it's {"mask"} .
+{"placeholder": "text_a"} she's {"mask"} .
+{"placeholder": "text_a"} "i'm {"mask"} .
+{"placeholder": "text_a"} and it's always {"mask"} .
+{"placeholder": "text_a"} it's so {"mask"} .
+{"placeholder": "text_a"} it is so {"mask"} .
+{"placeholder": "text_a"} you're {"mask"} .
+{"placeholder": "text_a"} it's just that she is so {"mask"} .
+{"placeholder": "text_a"} "i'm {"mask"} with this.
+{"placeholder": "text_a"} it's just that she is so {"mask"} and it's like she is.

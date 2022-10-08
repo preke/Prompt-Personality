@@ -1,0 +1,9 @@
+{"placeholder": "text_a"} It's {"mask"} ..
+{"placeholder": "text_a"} I'm {"mask"} !.
+{"placeholder": "text_a"} I am {"mask"} ..
+{"placeholder": "text_a"} I'm so {"mask"} ..
+{"placeholder": "text_a"} You're {"mask"} ..
+{"placeholder": "text_a"} I'm just {"mask"} ..
+{"placeholder": "text_a"} I'm not {"mask"} ..
+{"placeholder": "text_a"} I'll be {"mask"} ..
+{"placeholder": "text_a"} I'm so {"mask"} !.
